@@ -1,0 +1,119 @@
+div {
+	border-radius: 2%;
+	width: 99%;
+	
+	
+	border: 1% solid black;
+	text-align: center;
+	background-color: #547980;
+	margin: .2%;
+
+}
+
+.box {
+	float:left;
+	height: 100%;
+	width: 32.8%;
+	background-color: #F4EBC3;
+}
+
+#logo {
+	height:8%;
+	width: 8%;
+	float: left;
+	border:none;
+}
+
+#title {
+	width: 80%;
+	float:left;	
+}
+
+#header {
+	height: 10%;
+	width: 99%;
+	padding: .1%;
+	font-family: Verdana;
+	color: #ffffff;
+	text-align: center;
+	font-size: 40px;
+}
+
+#meat {
+	background-color: #ffffff;
+	padding: 0px;
+	margin: 0px;
+	border:none;
+	height: 90%;
+	width: 100%;
+	border: 2px solid black;
+}
+
+#gif {
+	float:left;
+	background-color:#F4EBC3;
+}
+
+#footer {
+	float: left;
+	height: 10%;
+	width: 99%;
+	padding: .1%;
+	font-family: Verdana;
+	color: #ffffff;
+	text-align: left;
+}
+
+#button {
+	float:right;
+	width: 5%;
+	height: 10%;
+	/*border: 2px solid black;*/
+	border:none;
+}
+
+
+.citations {
+	font-size: 12px;
+	float:left;
+	color: white;
+	text-decoration: none;
+}
+ol {
+	text-align: left;
+}
+p {
+	font-size: 12px;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 20px;
+}
+h4 {
+	font-size: 10px;
+}
+
+/* unvisited link */
+a:link {
+	color: inherit;
+	text-decoration: none;
+}
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: white;
+}
+
+/* selected link */
+a:active {
+    color: white;
+}
